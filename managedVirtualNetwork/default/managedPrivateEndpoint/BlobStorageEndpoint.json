@@ -1,0 +1,10 @@
+{
+	"name": "BlobStorageEndpoint",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/f7d138db-6fae-40b2-9caf-5befa776ef1f/resourceGroups/NPPTL-ML-RG/providers/Microsoft.Storage/storageAccounts/npptlmlwksp0020579263",
+		"groupId": "blob",
+		"fqdns": [
+			"npptlmlwksp0020579263.blob.core.windows.net"
+		]
+	}
+}

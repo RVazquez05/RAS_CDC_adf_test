@@ -1,0 +1,15 @@
+{
+	"name": "npptl-ras-tst",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aaf6f67e-ddaa-4e5f-b152-123e1a8b2ad4",
+		"tenantId": "9ce70869-60db-44fd-abe8-d2767077fc8f"
+	}
+}
