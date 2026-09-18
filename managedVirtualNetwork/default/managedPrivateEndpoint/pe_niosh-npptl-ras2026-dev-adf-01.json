@@ -1,0 +1,10 @@
+{
+	"name": "pe_niosh-npptl-ras2026-dev-adf-01",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/b6085d96-6bb5-4e70-890c-e026d0cb1d1a/resourceGroups/OCIO-DAV-DEV/providers/Microsoft.KeyVault/vaults/nioshras2026devkv01",
+		"groupId": "vault",
+		"fqdns": [
+			"nioshras2026devkv01.vault.azure.net"
+		]
+	}
+}

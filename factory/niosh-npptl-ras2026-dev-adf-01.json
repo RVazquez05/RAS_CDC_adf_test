@@ -1,0 +1,15 @@
+{
+	"name": "niosh-npptl-ras2026-dev-adf-01",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eb26b733-70f3-40bd-b01b-28eea7f00fed",
+		"tenantId": "9ce70869-60db-44fd-abe8-d2767077fc8f"
+	}
+}
